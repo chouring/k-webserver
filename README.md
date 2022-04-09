@@ -1,5 +1,5 @@
 # a web server based on C/Cpp
-学习Linux服务器开发的代码笔记
+学习Linux服务器开发的代码。
 
 参考书籍：
 
