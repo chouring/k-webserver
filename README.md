@@ -1,8 +1,11 @@
-# a web server based on C/Cpp
-学习Linux服务器开发的代码。
+# Web server
+## 特点
+高并发
 
-参考书籍：
+## 实现
 
+
+## 参考
 《Linux高性能服务器编程》 游双著,
 
 《Linux多线程服务端编程：使用muduo C++网络库》(陈硕)
